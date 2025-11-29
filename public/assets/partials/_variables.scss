@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+// Global Variable
+
+:root {
+    // Bg Colors
+    --bg-white: #ECECEC;
+    --bg-black: #000;
+    --bg-ts: transparent;
+    // border color 
+    --br-color: #667085;
+    --br-raduis: 5px;
+    // Icon Color 
+    --icon-color: #667085;
+    // Font Coolor
+    --fc-primary: #667085;
+    --fc-middle: #000;
+    --fc-secondary: #000;
+    // Default Color
+    --grey: #eee;
+    --dark: #363949;
+    --light: #f6f6f9;
+    --primary: #1976D2;
+    --danger: #D32F2F;
+    --warning: #FBC02D;
+    --success: #388E3C;
+    --foucs-color: #556ee640;
+    // Fonts Family
+    --icon-font-family: 'FontAwesome';
+    --base-font-family: 'Poppins', sans-serif;
+    // Heading Fonts
+    --font-size-h1: 45px;
+    --font-size-h2: 38px;
+    --font-size-h3: 34px;
+    --font-size-h4: 30px;
+    --font-size-h5: 28px;
+    --font-size-h6: 24px;
+    --font-size-basic: 14px;
+    // Card 
+    --card-bg: #ffffff;
+    --card-border: #e6e9ee;
+    --card-radius: 0.5rem;
+    --card-padding: 1rem;
+    --card-shadow: 0 1px 3px rgba(34, 41, 47, 0.08), 0 1px 2px rgba(34, 41, 47, 0.03);
+    --card-shadow-hover: 0 6px 18px rgba(34, 41, 47, 0.12);
+    --card-title-size: 1.125rem;
+    --card-subtle: #6c757d;
+}
